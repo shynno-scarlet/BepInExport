@@ -8,3 +8,6 @@ I made this for FlowScape (Steam: https://store.steampowered.com/app/1043390), b
 - Move the Plugin DLL to the BepInEx plugins folder.
 -
 - Profit.
+
+### Limits
+The Export is limited to the OBJ & MTL standard. It may not work with some Unity components.
