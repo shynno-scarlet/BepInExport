@@ -5,6 +5,6 @@ I made this for FlowScape (Steam: https://store.steampowered.com/app/1043390), b
 ### Installation
 - Install BepInEx. (https://github.com/BepInEx/BepInEx/releases)
 - Compile the Plugin in VisualStudio or with the dotnet CLI.
-- Move the Plugin Lib to the BepInEx plugins folder.
+- Move the Plugin DLL to the BepInEx plugins folder.
 -
 - Profit.
