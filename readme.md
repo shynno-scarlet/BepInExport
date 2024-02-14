@@ -1,6 +1,6 @@
 You can use this Lib to export the active Scene in a Unity Game/Software to an OBJ File.
 
-I made this for FlowScape (Steam: https://store.steampowered.com/app/1043390), but it should work with other Unity software as well.
+I made this for [FlowScape](https://store.steampowered.com/app/1043390), but it should work with any other Unity software as well.
 
 ### Installation
 - Install [BepInEx](https://github.com/BepInEx/BepInEx/releases).
